@@ -1,0 +1,36 @@
+You can use this in your Power Apps application to validate Finnish y-tunnus:
+
+If(
+    IsMatch(
+        "3112613-2",
+        "\d{7}-\d{1}"
+    ),
+    true,
+    false
+);
+
+For example:
+
+If(
+    IsMatch(
+        Ytunnus.Text,
+        "\d{7}-\d{1}"
+    ),
+    true,
+    false
+)
+
+Or, if you are using modern controls:
+
+If(
+    IsMatch(
+        Ytunnus.Value,
+        "\d{7}-\d{1}"
+    ),
+    true,
+    false
+)
+
+Learn more:
+
+https://learn.microsoft.com/en-us/power-platform/power-fx/reference/function-ismatch
