@@ -1,0 +1,1260 @@
+Here is a complete collection of all country ISO codes as defined by the ISO 3166 international standard. Have fun :)
+
+ClearCollect(
+    colCountryCodes,
+    {
+        CountryName: "Afghanistan",
+        Alpha-2: "AF",
+        Alpha-3: "AFG"
+    },
+    {
+        CountryName: "Åland Islands",
+        Alpha-2: "AX",
+        Alpha-3: "ALA"
+    },
+    {
+        CountryName: "Albania",
+        Alpha-2: "AL",
+        Alpha-3: "ALB"
+    },
+    {
+        CountryName: "Algeria",
+        Alpha-2: "DZ",
+        Alpha-3: "DZA"
+    },
+    {
+        CountryName: "American Samoa",
+        Alpha-2: "AS",
+        Alpha-3: "ASM"
+    },
+    {
+        CountryName: "	Andorra	",
+        Alpha-2: "AD",
+        Alpha-3: "AND"
+    },
+    {
+        CountryName: "Angola",
+        Alpha-2: "AO",
+        Alpha-3: "AGO"
+    },
+    {
+        CountryName: "Anguilla",
+        Alpha-2: "AI",
+        Alpha-3: "AIA"
+    },
+    {
+        CountryName: "Antarctica",
+        Alpha-2: "AQ",
+        Alpha-3: "ATA"
+    },
+    {
+        CountryName: "Antigua ja Barbuda",
+        Alpha-2: "AG",
+        Alpha-3: "ATG"
+    },
+    {
+        CountryName: "Argentina",
+        Alpha-2: "AR",
+        Alpha-3: "ARG"
+    },
+    {
+        CountryName: "	Armenia	",
+        Alpha-2: "AM",
+        Alpha-3: "ARM"
+    },
+    {
+        CountryName: "Aruba",
+        Alpha-2: "AW",
+        Alpha-3: "ABW"
+    },
+    {
+        CountryName: "Australia",
+        Alpha-2: "AU",
+        Alpha-3: "AUS"
+    },
+    {
+        CountryName: "Austria",
+        Alpha-2: "AT",
+        Alpha-3: "AUT"
+    },
+    {
+        CountryName: "Azerbaijan",
+        Alpha-2: "AZ",
+        Alpha-3: "AZE"
+    },
+    {
+        CountryName: "Bahamas",
+        Alpha-2: "BS",
+        Alpha-3: "BHS"
+    },
+    {
+        CountryName: "Bahrain",
+        Alpha-2: "BH",
+        Alpha-3: "BHR"
+    },
+    {
+        CountryName: "Bangladesh",
+        Alpha-2: "BD",
+        Alpha-3: "BGD"
+    },
+    {
+        CountryName: "Barbados",
+        Alpha-2: "BB",
+        Alpha-3: "BRB"
+    },
+    {
+        CountryName: "Belarus",
+        Alpha-2: "BY",
+        Alpha-3: "BLR"
+    },
+    {
+        CountryName: "Belgium",
+        Alpha-2: "BE",
+        Alpha-3: "BEL"
+    },
+    {
+        CountryName: "Belize",
+        Alpha-2: "BZ",
+        Alpha-3: "BLZ"
+    },
+    {
+        CountryName: "Benin",
+        Alpha-2: "BJ",
+        Alpha-3: "BEN"
+    },
+    {
+        CountryName: "Bermuda",
+        Alpha-2: "BM",
+        Alpha-3: "BMU"
+    },
+    {
+        CountryName: "Bhutan",
+        Alpha-2: "BT",
+        Alpha-3: "BTN"
+    },
+    {
+        CountryName: "Bolivia (Plurinational State of)",
+        Alpha-2: "BO",
+        Alpha-3: "BOL"
+    },
+    {
+        CountryName: "Bonaire, Sint Eustatius and Saba",
+        Alpha-2: "BQ",
+        Alpha-3: "BES"
+    },
+    {
+        CountryName: "Bosnia and Herzegovina",
+        Alpha-2: "BA",
+        Alpha-3: "BIH"
+    },
+    {
+        CountryName: "Botswana",
+        Alpha-2: "BW",
+        Alpha-3: "BWA"
+    },
+    {
+        CountryName: "Bouvet Island",
+        Alpha-2: "BV",
+        Alpha-3: "BVT"
+    },
+    {
+        CountryName: "Brazil",
+        Alpha-2: "BR",
+        Alpha-3: "BRA"
+    },
+    {
+        CountryName: "British Indian Ocean Territory",
+        Alpha-2: "IO",
+        Alpha-3: "IOT"
+    },
+    {
+        CountryName: "Brunei Darussalam",
+        Alpha-2: "BN",
+        Alpha-3: "BRN"
+    },
+    {
+        CountryName: "Bulgaria",
+        Alpha-2: "BG",
+        Alpha-3: "BGR"
+    },
+    {
+        CountryName: "Burkina Faso",
+        Alpha-2: "BF",
+        Alpha-3: "BFA"
+    },
+    {
+        CountryName: "Burundi",
+        Alpha-2: "BI",
+        Alpha-3: "BDI"
+    },
+    {
+        CountryName: "Cabo Verde",
+        Alpha-2: "CV",
+        Alpha-3: "CPV"
+    },
+    {
+        CountryName: "Cambodia",
+        Alpha-2: "KH",
+        Alpha-3: "KHM"
+    },
+    {
+        CountryName: "Cameroon",
+        Alpha-2: "CM",
+        Alpha-3: "CMR"
+    },
+    {
+        CountryName: "Canada",
+        Alpha-2: "CA",
+        Alpha-3: "CAN"
+    },
+    {
+        CountryName: "Cayman Islands",
+        Alpha-2: "KY",
+        Alpha-3: "CYM	"
+    },
+    {
+        CountryName: "Central African Republic",
+        Alpha-2: "CF",
+        Alpha-3: "CAF	"
+    },
+    {
+        CountryName: "Chad",
+        Alpha-2: "TD",
+        Alpha-3: "TCD"
+    },
+    {
+        CountryName: "Chile",
+        Alpha-2: "CL",
+        Alpha-3: "CHL"
+    },
+    {
+        CountryName: "China",
+        Alpha-2: "CN",
+        Alpha-3: "CHN"
+    },
+    {
+        CountryName: "Christmas Island",
+        Alpha-2: "CX",
+        Alpha-3: "CXR"
+    },
+    {
+        CountryName: "Cocos (Keeling) Islands",
+        Alpha-2: "CC",
+        Alpha-3: "CCK	"
+    },
+    {
+        CountryName: "Colombia",
+        Alpha-2: "CO",
+        Alpha-3: "COL"
+    },
+    {
+        CountryName: "Comoros",
+        Alpha-2: "KM",
+        Alpha-3: "COM	"
+    },
+    {
+        CountryName: "Congo",
+        Alpha-2: "CG",
+        Alpha-3: "COG"
+    },
+    {
+        CountryName: "Congo (Democratic Republic of the)",
+        Alpha-2: "CD",
+        Alpha-3: "COD"
+    },
+    {
+        CountryName: "Cook Islands",
+        Alpha-2: "CK",
+        Alpha-3: "CO	"
+    },
+    {
+        CountryName: "Costa Rica",
+        Alpha-2: "CR",
+        Alpha-3: "CRI"
+    },
+    {
+        CountryName: "Croatia",
+        Alpha-2: "HR",
+        Alpha-3: "HRV"
+    },
+    {
+        CountryName: "Cuba",
+        Alpha-2: "CU",
+        Alpha-3: "CUB"
+    },
+    {
+        CountryName: "Curaçao",
+        Alpha-2: "CW",
+        Alpha-3: "CUW"
+    },
+    {
+        CountryName: "Cyprus",
+        Alpha-2: "CY",
+        Alpha-3: "CYP"
+    },
+    {
+        CountryName: "	Czech Republic	",
+        Alpha-2: "	CZ	",
+        Alpha-3: "	CZE	"
+    },
+    {
+        CountryName: "Denmark",
+        Alpha-2: "DK",
+        Alpha-3: "DNK"
+    },
+    {
+        CountryName: "Djibouti",
+        Alpha-2: "DJ",
+        Alpha-3: "DJI"
+    },
+    {
+        CountryName: "Dominica",
+        Alpha-2: "DM",
+        Alpha-3: "DMA"
+    },
+    {
+        CountryName: "Dominican Republic",
+        Alpha-2: "DO",
+        Alpha-3: "DOM"
+    },
+    {
+        CountryName: "Ecuador",
+        Alpha-2: "EC",
+        Alpha-3: "ECU"
+    },
+    {
+        CountryName: "Egypt",
+        Alpha-2: "EG",
+        Alpha-3: "EGY"
+    },
+    {
+        CountryName: "El Salvador",
+        Alpha-2: "SV",
+        Alpha-3: "SLV"
+    },
+    {
+        CountryName: "Equatorial Guinea",
+        Alpha-2: "GQ",
+        Alpha-3: "GNQ"
+    },
+    {
+        CountryName: "Eritrea",
+        Alpha-2: "ER",
+        Alpha-3: "ERI	"
+    },
+    {
+        CountryName: "Estonia",
+        Alpha-2: "EE",
+        Alpha-3: "EST"
+    },
+    {
+        CountryName: "Ethiopia",
+        Alpha-2: "ET",
+        Alpha-3: "ETH"
+    },
+    {
+        CountryName: "Falkland Islands (Malvinas)",
+        Alpha-2: "FK",
+        Alpha-3: "FLK"
+    },
+    {
+        CountryName: "Faroe Islands",
+        Alpha-2: "FO",
+        Alpha-3: "FRO"
+    },
+    {
+        CountryName: "Fiji",
+        Alpha-2: "FJ",
+        Alpha-3: "FJI"
+    },
+    {
+        CountryName: "Finland",
+        Alpha-2: "FI",
+        Alpha-3: "FIN"
+    },
+    {
+        CountryName: "France",
+        Alpha-2: "FR",
+        Alpha-3: "FRA"
+    },
+    {
+        CountryName: "French Guiana",
+        Alpha-2: "GF",
+        Alpha-3: "GUF"
+    },
+    {
+        CountryName: "French Polynesia",
+        Alpha-2: "PF",
+        Alpha-3: "PYF"
+    },
+    {
+        CountryName: "French Southern Territories",
+        Alpha-2: "TF",
+        Alpha-3: "ATF"
+    },
+    {
+        CountryName: "Gabon",
+        Alpha-2: "GA",
+        Alpha-3: "GAB"
+    },
+    {
+        CountryName: "Gambia",
+        Alpha-2: "GM",
+        Alpha-3: "GMB"
+    },
+    {
+        CountryName: "Georgia",
+        Alpha-2: "GE",
+        Alpha-3: "GEO"
+    },
+    {
+        CountryName: "Germany",
+        Alpha-2: "DE",
+        Alpha-3: "DEU"
+    },
+    {
+        CountryName: "Ghana",
+        Alpha-2: "GH",
+        Alpha-3: "GHA"
+    },
+    {
+        CountryName: "Gibraltar",
+        Alpha-2: "GI",
+        Alpha-3: "GIB"
+    },
+    {
+        CountryName: "Greece",
+        Alpha-2: "GR",
+        Alpha-3: "GRC"
+    },
+    {
+        CountryName: "Greenland",
+        Alpha-2: "GL",
+        Alpha-3: "GRL"
+    },
+    {
+        CountryName: "Grenada",
+        Alpha-2: "GD",
+        Alpha-3: "GRD"
+    },
+    {
+        CountryName: "Guadeloupe",
+        Alpha-2: "GP",
+        Alpha-3: "GLP"
+    },
+    {
+        CountryName: "Guam",
+        Alpha-2: "GU",
+        Alpha-3: "GUM"
+    },
+    {
+        CountryName: "Guatemala",
+        Alpha-2: "GT",
+        Alpha-3: "GTM"
+    },
+    {
+        CountryName: "	Guernsey	",
+        Alpha-2: "	GG	",
+        Alpha-3: "	GGY	"
+    },
+    {
+        CountryName: "Guinea",
+        Alpha-2: "GN",
+        Alpha-3: "GIN"
+    },
+    {
+        CountryName: "Guinea-Bissau",
+        Alpha-2: "GW",
+        Alpha-3: "GNB"
+    },
+    {
+        CountryName: "Guyana",
+        Alpha-2: "GY",
+        Alpha-3: "GUY	"
+    },
+    {
+        CountryName: "Haiti",
+        Alpha-2: "HT",
+        Alpha-3: "HTI"
+    },
+    {
+        CountryName: "Heard Island and McDonald Islands",
+        Alpha-2: "HM",
+        Alpha-3: "HMD"
+    },
+    {
+        CountryName: "Honduras",
+        Alpha-2: "HN",
+        Alpha-3: "HND"
+    },
+    {
+        CountryName: "Hong Kong",
+        Alpha-2: "HK",
+        Alpha-3: "HKG"
+    },
+    {
+        CountryName: "Hungary",
+        Alpha-2: "HU",
+        Alpha-3: "HUN"
+    },
+    {
+        CountryName: "Iceland",
+        Alpha-2: "IS",
+        Alpha-3: "ISL"
+    },
+    {
+        CountryName: "India",
+        Alpha-2: "IN",
+        Alpha-3: "IND"
+    },
+    {
+        CountryName: "Indonesia",
+        Alpha-2: "ID",
+        Alpha-3: "IDN"
+    },
+    {
+        CountryName: "Iran (Islamic Republic of)",
+        Alpha-2: "IR",
+        Alpha-3: "IRN"
+    },
+    {
+        CountryName: "Iraq",
+        Alpha-2: "IQ",
+        Alpha-3: "IRQ"
+    },
+    {
+        CountryName: "Ireland",
+        Alpha-2: "IE",
+        Alpha-3: "IRL"
+    },
+    {
+        CountryName: "Isle of Man",
+        Alpha-2: "IM",
+        Alpha-3: "IMN"
+    },
+    {
+        CountryName: "Israel",
+        Alpha-2: "IL",
+        Alpha-3: "ISR"
+    },
+    {
+        CountryName: "Italy",
+        Alpha-2: "IT",
+        Alpha-3: "ITA"
+    },
+    {
+        CountryName: "Ivory Coast",
+        Alpha-2: "CI",
+        Alpha-3: "CIV"
+    },
+    {
+        CountryName: "Jamaica",
+        Alpha-2: "JM",
+        Alpha-3: "JAM"
+    },
+    {
+        CountryName: "Japan",
+        Alpha-2: "JP",
+        Alpha-3: "JPN"
+    },
+    {
+        CountryName: "Jersey",
+        Alpha-2: 	"JE",
+        Alpha-3: "JEY"
+    },
+    {
+        CountryName: "Jordan",
+        Alpha-2: "JO",
+        Alpha-3: "JOR"
+    },
+    {
+        CountryName: "Kazakhstan",
+        Alpha-2: "KZ",
+        Alpha-3: "KAZ"
+    },
+    {
+        CountryName: "	Kenya	",
+        Alpha-2: "	KE	",
+        Alpha-3: "	KEN	"
+    },
+    {
+        CountryName: "Kiribati",
+        Alpha-2: "KI",
+        Alpha-3: "KIR"
+    },
+    {
+        CountryName: "Korea (Democratic People's Republic of)",
+        Alpha-2: "KP",
+        Alpha-3: "PRK"
+    },
+    {
+        CountryName: "Korea (Republic of)",
+        Alpha-2: "KR",
+        Alpha-3: "KO"
+    },
+    {
+        CountryName: "Kuwait",
+        Alpha-2: "KW",
+        Alpha-3: "KWT	"
+    },
+    {
+        CountryName: "Kyrgyzstan",
+        Alpha-2: "KG",
+        Alpha-3: "KGZ"
+    },
+    {
+        CountryName: "Lao People's Democratic Republic",
+        Alpha-2: "LA",
+        Alpha-3: "LAO"
+    },
+    {
+        CountryName: "Latvia",
+        Alpha-2: "LV",
+        Alpha-3: "LVA"
+    },
+    {
+        CountryName: "Lebanon",
+        Alpha-2: "LB",
+        Alpha-3: "LBN"
+    },
+    {
+        CountryName: "Lesotho",
+        Alpha-2: "LS	",
+        Alpha-3: "	LSO	"
+    },
+    {
+        CountryName: "	Liberia	",
+        Alpha-2: "LR",
+        Alpha-3: "LBR"
+    },
+    {
+        CountryName: "Libya",
+        Alpha-2: "LY",
+        Alpha-3: "LBY"
+    },
+    {
+        CountryName: "Liechtenstein",
+        Alpha-2: "LI",
+        Alpha-3: "LIE"
+    },
+    {
+        CountryName: "Lithuania",
+        Alpha-2: "LT",
+        Alpha-3: "LTU"
+    },
+    {
+        CountryName: "Luxembourg",
+        Alpha-2: "LU",
+        Alpha-3: "LUX"
+    },
+    {
+        CountryName: "Macao",
+        Alpha-2: "MO",
+        Alpha-3: "MAC"
+    },
+    {
+        CountryName: "Madagascar",
+        Alpha-2: "MG",
+        Alpha-3: "MDG"
+    },
+    {
+        CountryName: "Malawi",
+        Alpha-2: "MW",
+        Alpha-3: "MWI"
+    },
+    {
+        CountryName: "Malaysia",
+        Alpha-2: "MY",
+        Alpha-3: "MYS"
+    },
+    {
+        CountryName: "Maldives",
+        Alpha-2: "MV",
+        Alpha-3: "MDV"
+    },
+    {
+        CountryName: "Mali",
+        Alpha-2: "ML",
+        Alpha-3: "MLI"
+    },
+    {
+        CountryName: "Malta",
+        Alpha-2: "MT",
+        Alpha-3: "MLT	"
+    },
+    {
+        CountryName: "Marshall Islands",
+        Alpha-2: "MH",
+        Alpha-3: "MHL"
+    },
+    {
+        CountryName: "Martinique",
+        Alpha-2: "MQ",
+        Alpha-3: "MTQ"
+    },
+    {
+        CountryName: "Mauritania",
+        Alpha-2: "MR",
+        Alpha-3: "MRT"
+    },
+    {
+        CountryName: "Mauritius",
+        Alpha-2: "MU",
+        Alpha-3: "MUS"
+    },
+    {
+        CountryName: "Mayotte",
+        Alpha-2: "YT",
+        Alpha-3: "MYT"
+    },
+    {
+        CountryName: "Mexico",
+        Alpha-2: "MX",
+        Alpha-3: "MEX"
+    },
+    {
+        CountryName: "Micronesia (Federated States of)",
+        Alpha-2: "FM",
+        Alpha-3: "FSM"
+    },
+    {
+        CountryName: "Moldova (Republic of)",
+        Alpha-2: "MD",
+        Alpha-3: "MDA"
+    },
+    {
+        CountryName: "Monaco",
+        Alpha-2: "MC",
+        Alpha-3: "MCO"
+    },
+    {
+        CountryName: "Mongolia",
+        Alpha-2: "MN",
+        Alpha-3: "MNG"
+    },
+    {
+        CountryName: "Montenegro",
+        Alpha-2: "ME",
+        Alpha-3: "MNE"
+    },
+    {
+        CountryName: "Montserrat",
+        Alpha-2: "MS",
+        Alpha-3: "MSR"
+    },
+    {
+        CountryName: "Morocco",
+        Alpha-2: "MA",
+        Alpha-3: "MAR"
+    },
+    {
+        CountryName: "Mozambique",
+        Alpha-2: "MZ",
+        Alpha-3: "MOZ"
+    },
+    {
+        CountryName: "Myanmar",
+        Alpha-2: "MM",
+        Alpha-3: "MMR"
+    },
+    {
+        CountryName: "Namibia",
+        Alpha-2: "NA",
+        Alpha-3: "NAM"
+    },
+    {
+        CountryName: "Nauru",
+        Alpha-2: "NR",
+        Alpha-3: "NRU"
+    },
+    {
+        CountryName: "Nepal",
+        Alpha-2: "NP",
+        Alpha-3: "NPL"
+    },
+    {
+        CountryName: "Netherlands",
+        Alpha-2: "NL",
+        Alpha-3: "NLD"
+    },
+    {
+        CountryName: "New Caledonia",
+        Alpha-2: "NC",
+        Alpha-3: "NCL"
+    },
+    {
+        CountryName: "New Zealand",
+        Alpha-2: "NZ",
+        Alpha-3: "NZL"
+    },
+    {
+        CountryName: "Nicaragua",
+        Alpha-2: "NI",
+        Alpha-3: "NIC	"
+    },
+    {
+        CountryName: "Niger",
+        Alpha-2: "NE",
+        Alpha-3: "NER"
+    },
+    {
+        CountryName: "Nigeria",
+        Alpha-2: "NG",
+        Alpha-3: "NGA"
+    },
+    {
+        CountryName: "Niue",
+        Alpha-2: "NU",
+        Alpha-3: "NIU"
+    },
+    {
+        CountryName: "Norfolk Island",
+        Alpha-2: "NF",
+        Alpha-3: "NFK"
+    },
+    {
+        CountryName: "North Macedonia",
+        Alpha-2: "MK",
+        Alpha-3: "MKD"
+    },
+    {
+        CountryName: "Northern Mariana Islands",
+        Alpha-2: "MP",
+        Alpha-3: "MNP"
+    },
+    {
+        CountryName: "Norway",
+        Alpha-2: "NO",
+        Alpha-3: "NO"
+    },
+    {
+        CountryName: "Oman",
+        Alpha-2: "OM",
+        Alpha-3: "	OMN	"
+    },
+    {
+        CountryName: "Pakistan",
+        Alpha-2: "PK",
+        Alpha-3: "PAK"
+    },
+    {
+        CountryName: "Palau",
+        Alpha-2: "PW",
+        Alpha-3: "PLW"
+    },
+    {
+        CountryName: "Palestine, State of",
+        Alpha-2: "PS",
+        Alpha-3: "PSE"
+    },
+    {
+        CountryName: "Panama",
+        Alpha-2: "PA",
+        Alpha-3: "PAN"
+    },
+    {
+        CountryName: "Papua New Guinea",
+        Alpha-2: "PG",
+        Alpha-3: "PNG"
+    },
+    {
+        CountryName: "Paraguay",
+        Alpha-2: "PY",
+        Alpha-3: "PRY"
+    },
+    {
+        CountryName: "Peru",
+        Alpha-2: "PE",
+        Alpha-3: "PER"
+    },
+    {
+        CountryName: "Philippines",
+        Alpha-2: "PH",
+        Alpha-3: "PHL"
+    },
+    {
+        CountryName: "Pitcairn",
+        Alpha-2: "PN",
+        Alpha-3: "PCN"
+    },
+    {
+        CountryName: "Poland",
+        Alpha-2: "PL",
+        Alpha-3: "POL"
+    },
+    {
+        CountryName: "Portugal",
+        Alpha-2: "PT",
+        Alpha-3: "PRT"
+    },
+    {
+        CountryName: "Puerto Rico",
+        Alpha-2: "PR",
+        Alpha-3: "PRI"
+    },
+    {
+        CountryName: "Qatar",
+        Alpha-2: "QA",
+        Alpha-3: "QAT"
+    },
+    {
+        CountryName: "Republic of Kosovo",
+        Alpha-2: "XK",
+        Alpha-3: "UNK"
+    },
+    {
+        CountryName: "Republic of Kosovo",
+        Alpha-2: "XK",
+        Alpha-3: "KOS"
+    },
+    {
+        CountryName: "Réunion",
+        Alpha-2: "RE",
+        Alpha-3: "REU"
+    },
+    {
+        CountryName: "Romania",
+        Alpha-2: "RO",
+        Alpha-3: "ROU"
+    },
+    {
+        CountryName: "Russian Federation",
+        Alpha-2: "RU",
+        Alpha-3: "RUS"
+    },
+    {
+        CountryName: "Rwanda",
+        Alpha-2: "RW",
+        Alpha-3: "RWA"
+    },
+    {
+        CountryName: "Saint Barthélemy",
+        Alpha-2: "BL",
+        Alpha-3: "BLM"
+    },
+    {
+        CountryName: "Saint Helena, Ascension and Tristan da Cunha",
+        Alpha-2: "SH",
+        Alpha-3: "SHN"
+    },
+    {
+        CountryName: "Saint Kitts and Nevis",
+        Alpha-2: "KN",
+        Alpha-3: "KNA"
+    },
+    {
+        CountryName: "Saint Lucia",
+        Alpha-2: "LC",
+        Alpha-3: "LCA"
+    },
+    {
+        CountryName: "Saint Martin (French part)",
+        Alpha-2: "MF",
+        Alpha-3: "MAF"
+    },
+    {
+        CountryName: "Saint Pierre and Miquelon",
+        Alpha-2: "PM",
+        Alpha-3: "SPM"
+    },
+    {
+        CountryName: "Saint Vincent and the Grenadines",
+        Alpha-2: "VC",
+        Alpha-3: "VCT"
+    },
+    {
+        CountryName: "Samoa",
+        Alpha-2: "WS",
+        Alpha-3: "WSM"
+    },
+    {
+        CountryName: "San Marino",
+        Alpha-2: "SM",
+        Alpha-3: "SMR"
+    },
+    {
+        CountryName: "Sao Tome and Principe",
+        Alpha-2: "ST",
+        Alpha-3: "STP"
+    },
+    {
+        CountryName: "Saudi Arabia",
+        Alpha-2: "SA",
+        Alpha-3: "SAU"
+    },
+    {
+        CountryName: "Senegal",
+        Alpha-2: "SN",
+        Alpha-3: "SEN"
+    },
+    {
+        CountryName: "Serbia",
+        Alpha-2: "RS",
+        Alpha-3: "SRB"
+    },
+    {
+        CountryName: "Seychelles",
+        Alpha-2: "SC",
+        Alpha-3: "SYC"
+    },
+    {
+        CountryName: "Sierra Leone",
+        Alpha-2: "SL",
+        Alpha-3: "SLE"
+    },
+    {
+        CountryName: "Singapore",
+        Alpha-2: "SG",
+        Alpha-3: "SGP"
+    },
+    {
+        CountryName: "Sint Maarten (Dutch part)",
+        Alpha-2: "SX",
+        Alpha-3: "SXM"
+    },
+    {
+        CountryName: "Slovakia",
+        Alpha-2: "SK",
+        Alpha-3: "SVK"
+    },
+    {
+        CountryName: "Slovenia",
+        Alpha-2: "SI",
+        Alpha-3: "SVN"
+    },
+    {
+        CountryName: "Solomon Islands",
+        Alpha-2: "SB",
+        Alpha-3: "SLB"
+    },
+    {
+        CountryName: "Somalia",
+        Alpha-2: "SO",
+        Alpha-3: "SOM"
+    },
+    {
+        CountryName: "South Africa",
+        Alpha-2: "ZA",
+        Alpha-3: "ZAF"
+    },
+    {
+        CountryName: "South Georgia and the South Sandwich Islands",
+        Alpha-2: "GS",
+        Alpha-3: "SGS"
+    },
+    {
+        CountryName: "South Sudan",
+        Alpha-2: "SS",
+        Alpha-3: "SSD"
+    },
+    {
+        CountryName: "Spain",
+        Alpha-2: "ES",
+        Alpha-3: "ESP"
+    },
+    {
+        CountryName: "Sri Lanka",
+        Alpha-2: "LK",
+        Alpha-3: "LKA"
+    },
+    {
+        CountryName: "Sudan",
+        Alpha-2: "SD",
+        Alpha-3: "SDN"
+    },
+    {
+        CountryName: "Suriname",
+        Alpha-2: "SR",
+        Alpha-3: "SUR"
+    },
+    {
+        CountryName: "Svalbard and Jan Mayen",
+        Alpha-2: "SJ",
+        Alpha-3: "SJM"
+    },
+    {
+        CountryName: "Swaziland",
+        Alpha-2: "SZ",
+        Alpha-3: "SWZ"
+    },
+    {
+        CountryName: "Sweden",
+        Alpha-2: "SE",
+        Alpha-3: "SWE"
+    },
+    {
+        CountryName: "Switzerland",
+        Alpha-2: "CH",
+        Alpha-3: "CHE	"
+    },
+    {
+        CountryName: "Syrian Arab Republic",
+        Alpha-2: "SY",
+        Alpha-3: "SYR"
+    },
+    {
+        CountryName: "Taiwan",
+        Alpha-2: "TW",
+        Alpha-3: "TWN"
+    },
+    {
+        CountryName: "Tajikistan",
+        Alpha-2: "TJ",
+        Alpha-3: "TJK"
+    },
+    {
+        CountryName: "Tanzania, United Republic of",
+        Alpha-2: "TZ",
+        Alpha-3: "TZA"
+    },
+    {
+        CountryName: "Thailand",
+        Alpha-2: "TH",
+        Alpha-3: "THA"
+    },
+    {
+        CountryName: "Timor-Leste",
+        Alpha-2: "TL",
+        Alpha-3: "TLS"
+    },
+    {
+        CountryName: "Togo",
+        Alpha-2: "TG",
+        Alpha-3: "TGO"
+    },
+    {
+        CountryName: "Tokelau",
+        Alpha-2: "TK",
+        Alpha-3: "TKL"
+    },
+    {
+        CountryName: "Tonga",
+        Alpha-2: "TO",
+        Alpha-3: "TON"
+    },
+    {
+        CountryName: "Trinidad and Tobago",
+        Alpha-2: "TT",
+        Alpha-3: "TTO"
+    },
+    {
+        CountryName: "Tunisia",
+        Alpha-2: "TN",
+        Alpha-3: "TUN"
+    },
+    {
+        CountryName: "Turkey",
+        Alpha-2: "TR",
+        Alpha-3: "TUR"
+    },
+    {
+        CountryName: "Turkmenistan",
+        Alpha-2: "TM",
+        Alpha-3: "TKM"
+    },
+    {
+        CountryName: "Turks and Caicos Islands",
+        Alpha-2: "TC",
+        Alpha-3: "TCA"
+    },
+    {
+        CountryName: "Tuvalu",
+        Alpha-2: "TV",
+        Alpha-3: "TUV"
+    },
+    {
+        CountryName: "Uganda",
+        Alpha-2: "UG",
+        Alpha-3: "UGA"
+    },
+    {
+        CountryName: "Ukraine",
+        Alpha-2: "UA",
+        Alpha-3: "UKR"
+    },
+    {
+        CountryName: "United Arab Emirates",
+        Alpha-2: "	AE	",
+        Alpha-3: "	ARE	"
+    },
+    {
+        CountryName: "United Kingdom of Great Britain and Northern Ireland",
+        Alpha-2: "GB",
+        Alpha-3: "GBR"
+    },
+    {
+        CountryName: "United States Minor Outlying Islands",
+        Alpha-2: "UM",
+        Alpha-3: "UMI"
+    },
+    {
+        CountryName: "United States of America",
+        Alpha-2: "US",
+        Alpha-3: "USA"
+    },
+    {
+        CountryName: "Uruguay",
+        Alpha-2: "UY",
+        Alpha-3: "URY"
+    },
+    {
+        CountryName: "Uzbekistan",
+        Alpha-2: "UZ",
+        Alpha-3: "UZB"
+    },
+    {
+        CountryName: "Vanuatu",
+        Alpha-2: "VU",
+        Alpha-3: "VUT"
+    },
+    {
+        CountryName: "	atican City",
+        Alpha-2: "VA",
+        Alpha-3: "VAT"
+    },
+    {
+        CountryName: "Venezuela (Bolivarian Republic of)",
+        Alpha-2: "VE",
+        Alpha-3: "VEN"
+    },
+    {
+        CountryName: "Vietnam",
+        Alpha-2: "VN",
+        Alpha-3: "VNM"
+    },
+    {
+        CountryName: "Virgin Islands (British)",
+        Alpha-2: "VG",
+        Alpha-3: "VGB"
+    },
+    {
+        CountryName: "Virgin Islands (U.S.)",
+        Alpha-2: "VI",
+        Alpha-3: "VIR"
+    },
+    {
+        CountryName: "Wallis and Futuna",
+        Alpha-2: "WF",
+        Alpha-3: "WLF"
+    },
+    {
+        CountryName: "Western Sahara",
+        Alpha-2: "EH",
+        Alpha-3: "ESH"
+    },
+    {
+        CountryName: "Yemen",
+        Alpha-2: "YE",
+        Alpha-3: "YEM"
+    },
+    {
+        CountryName: "Zambia",
+        Alpha-2: "ZM",
+        Alpha-3: "ZMB"
+    },
+    {
+        CountryName: "Zimbabwe",
+        Alpha-2: "ZW",
+        Alpha-3: "ZWE"
+    }
+)
