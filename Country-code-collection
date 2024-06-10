@@ -28,7 +28,7 @@ ClearCollect(
         Alpha-3: "ASM"
     },
     {
-        CountryName: "	Andorra	",
+        CountryName: "Andorra",
         Alpha-2: "AD",
         Alpha-3: "AND"
     },
@@ -58,7 +58,7 @@ ClearCollect(
         Alpha-3: "ARG"
     },
     {
-        CountryName: "	Armenia	",
+        CountryName: "Armenia",
         Alpha-2: "AM",
         Alpha-3: "ARM"
     },
@@ -293,7 +293,7 @@ ClearCollect(
         Alpha-3: "CYP"
     },
     {
-        CountryName: "	Czech Republic	",
+        CountryName: "Czech Republic",
         Alpha-2: "	CZ	",
         Alpha-3: "	CZE	"
     },
@@ -453,7 +453,7 @@ ClearCollect(
         Alpha-3: "GTM"
     },
     {
-        CountryName: "	Guernsey	",
+        CountryName: "Guernsey",
         Alpha-2: "	GG	",
         Alpha-3: "	GGY	"
     },
@@ -1208,7 +1208,7 @@ ClearCollect(
         Alpha-3: "VUT"
     },
     {
-        CountryName: "	atican City",
+        CountryName: "Vatican City",
         Alpha-2: "VA",
         Alpha-3: "VAT"
     },
